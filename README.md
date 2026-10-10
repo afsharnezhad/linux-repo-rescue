@@ -1,4 +1,4 @@
-# Repo Rescue
+# linux-repo-rescue
 
 **A small, cautious Bash utility for diagnosing and temporarily working around unreachable `pacman` repository databases on Arch Linux.**
 
